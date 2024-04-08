@@ -1,0 +1,26 @@
+#about {
+	display: none;
+}
+
+#toggle-about {
+    cursor: pointer;
+}
+
+main {
+	margin: 20px;
+}
+
+.container {
+	max-width: 650px;
+	display: flex;
+	flex-direction: row;
+}
+
+.container div {
+	width: 300px;
+}
+
+
+main img {
+	max-width: 90%;
+}
